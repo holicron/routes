@@ -4,7 +4,7 @@ Route brought to you by **Graar**!
 
 
 
-![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
+![Fortified](../__ media/fortified.png) ![Tyrannical](../__ media/tyrannical.png)
 
 ### [EZ Clap Plague](https://raw.githubusercontent.com/holicron/Routes/main/Plaguefall/EZ_Clap_Plague.txt)
 
@@ -18,7 +18,7 @@ Route brought to you by **Graar**!
 
 ---
 
-![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
+![Fortified](../__ media/fortified.png) ![Tyrannical](../__ media/tyrannical.png)
 
 *** Minor variation ***
 

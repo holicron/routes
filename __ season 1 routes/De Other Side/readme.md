@@ -3,7 +3,7 @@
 Route brought to you by **Graar**!
 
 
-![Fortified](../__media/fortified.png) 
+![Fortified](../__ media/fortified.png) 
 
 ### [Graar's Fortified](https://raw.githubusercontent.com/holicron/Routes/main/De%20Other%20Side/Graar's_Fortified.txt)
 
@@ -19,7 +19,7 @@ Route brought to you by **Graar**!
 
 ---
 
-![Tyrannical](../__media/tyrannical.png)
+![Tyrannical](../__ media/tyrannical.png)
 
 ### [Graar's Tyrannical](https://raw.githubusercontent.com/holicron/Routes/main/De%20Other%20Side/Graar's_Tyrannical.txt)
 

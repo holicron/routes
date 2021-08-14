@@ -3,7 +3,7 @@
 Route brought to you by **Graar**!
 
 
-![Fortified](../__media/fortified.png) 
+![Fortified](../__ media/fortified.png) 
 
 ### [Fortified v4 Final](https://raw.githubusercontent.com/holicron/Routes/main/Sanguine%20Depths/Fortified_v4_Final.txt)
 
@@ -17,7 +17,7 @@ Route brought to you by **Graar**!
 
 ---
 
-![Tyrannical](../__media/tyrannical.png) 
+![Tyrannical](../__ media/tyrannical.png) 
 
 ### [EZ Tyra Refined v2](https://raw.githubusercontent.com/holicron/Routes/main/Sanguine%20Depths/EZ_Tyra_Refined_v2.txt)
 

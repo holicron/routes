@@ -2,7 +2,7 @@
 
 
 
-![Fortified](../__media/fortified.png)
+![Fortified](../__ media/fortified.png)
 ### [Fortified](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Fortified.txt)
 
 | Pride | Pull | Lust |
@@ -18,7 +18,7 @@
 
 ---
 
-![Tyrannical](../__media/tyrannical.png)
+![Tyrannical](../__ media/tyrannical.png)
 
 ### [Tyrannical](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Tyrannical.txt)
 
@@ -34,7 +34,7 @@
 ---
 
 
-![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
+![Fortified](../__ media/fortified.png) ![Tyrannical](../__ media/tyrannical.png)
 
 ### [Left](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Left.txt)
 
