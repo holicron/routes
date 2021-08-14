@@ -1,7 +1,5 @@
 # Plaguefall
 
-Route brought to you by **Graar**!
-
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
 ### [The Solution?](https://raw.githubusercontent.com/holicron/Routes/main/Plaguefall/The_solution.txt)

@@ -1,8 +1,5 @@
 # Necrotic Wake
 
-Routes brought to you by **Graar**!
-
-
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
 ### [Mmmmm](https://raw.githubusercontent.com/holicron/Routes/main/Necrotic%20Wake/Mmmmm.txt)

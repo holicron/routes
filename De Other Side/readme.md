@@ -1,7 +1,5 @@
 # De Other side
 
-Route brought to you by **Graar**!
-
 
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 

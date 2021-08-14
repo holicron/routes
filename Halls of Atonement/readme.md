@@ -1,6 +1,5 @@
 # Halls of Atonement
 
-Routes brought to you by **Graar**!
 
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
