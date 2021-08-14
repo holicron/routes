@@ -1,6 +1,6 @@
 # Plaguefall
 
-![Fortified](../__ media/fortified.png) ![Tyrannical](../__ media/tyrannical.png)
+![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
 ### [The Solution?](https://raw.githubusercontent.com/holicron/Routes/main/Plaguefall/The_solution.txt)
 

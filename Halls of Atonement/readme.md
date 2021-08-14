@@ -1,7 +1,7 @@
 # Halls of Atonement
 
 
-![Fortified](../__ media/fortified.png) ![Tyrannical](../__ media/tyrannical.png)
+![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
 ### [Uhhh 2](https://raw.githubusercontent.com/holicron/Routes/main/Halls%20of%20Atonement/Uhhh_2.txt)
 

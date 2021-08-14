@@ -4,7 +4,7 @@ Routes brought to you by **Graar**!
 
 
 
-![Fortified](../__ media/fortified.png)
+![Fortified](../__media/fortified.png)
 
 ### [Fortified 1 Skip](https://raw.githubusercontent.com/holicron/Routes/main/Necrotic%20Wake/Fortified_1_Skip.txt)
 
@@ -21,7 +21,7 @@ Routes brought to you by **Graar**!
 
 ---
 
-![Tyrannical](../__ media/tyrannical.png)
+![Tyrannical](../__media/tyrannical.png)
 
 ### [Graar's Tyrannical v2](https://raw.githubusercontent.com/holicron/Routes/main/Necrotic%20Wake/Graar's_Tyrannical_v2.txt)
 
@@ -37,7 +37,7 @@ Routes brought to you by **Graar**!
 
 ## Especially Fine & Refined routes™
 
-![Fortified](../__ media/fortified.png)
+![Fortified](../__media/fortified.png)
 
 ### [Double Skip Fort Final](https://raw.githubusercontent.com/holicron/Routes/main/Necrotic%20Wake/Double_Skip_Fort_Final.txt)
 

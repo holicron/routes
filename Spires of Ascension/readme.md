@@ -2,7 +2,7 @@
 
 
 
-![Fortified](../__ media/fortified.png) ![Tyrannical](../__ media/tyrannical.png)
+![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 ### [Superior cheek](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Superior_cheek.txt)
 
 | Pull | Lust |

@@ -1,6 +1,6 @@
 # Necrotic Wake
 
-![Fortified](../__ media/fortified.png) ![Tyrannical](../__ media/tyrannical.png)
+![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
 ### [Mmmmm](https://raw.githubusercontent.com/holicron/Routes/main/Necrotic%20Wake/Mmmmm.txt)
 

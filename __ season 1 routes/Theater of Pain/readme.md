@@ -2,7 +2,7 @@
 
 
 
-![Fortified](../__ media/fortified.png)
+![Fortified](../__media/fortified.png)
 
 ### [Dratnos/Graar Fortified](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Dratnos_Graar_Fortified.txt)
 
@@ -10,7 +10,7 @@
 
 
 
-![Fortified](../__ media/fortified.png)
+![Fortified](../__media/fortified.png)
 
 ### [EZ fortified Final](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ_Fortified_Final.txt)
 You can choose to lust either Gorechop or Mordtretha
@@ -30,7 +30,7 @@ You can choose to lust either Gorechop or Mordtretha
 ---
 
 
-![Perfect Tyrannical](../__ media/tyrannical.png)
+![Perfect Tyrannical](../__media/tyrannical.png)
 
 ### [Perfect Tyrannical](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Perfect_Tyrannical.txt)
 
@@ -46,7 +46,7 @@ You can choose to lust either Gorechop or Mordtretha
 
 ---
 
-![Fortified](../__ media/fortified.png) ![Tyrannical](../__ media/tyrannical.png)
+![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
 ### [Easy time pugging](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Easy_time_pugging.txt)
 Route without the Bloodhorn skip for easy pugging.
