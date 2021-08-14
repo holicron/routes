@@ -2,7 +2,7 @@
 
 
 
-![Fortified](../__media/fortified.png) ![Fortified](../__media/fortified.png)
+![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
 ### [MAGOOS](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/MAGOOS.txt)
 
